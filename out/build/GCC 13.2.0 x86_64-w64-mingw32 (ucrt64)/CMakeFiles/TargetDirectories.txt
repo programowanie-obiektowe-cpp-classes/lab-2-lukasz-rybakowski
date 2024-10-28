@@ -1,0 +1,5 @@
+D:/CPP/zejsciwoka_2/lab-2-lukasz-rybakowski/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/zad1.dir
+D:/CPP/zejsciwoka_2/lab-2-lukasz-rybakowski/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/zad2.dir
+D:/CPP/zejsciwoka_2/lab-2-lukasz-rybakowski/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/zad3.dir
+D:/CPP/zejsciwoka_2/lab-2-lukasz-rybakowski/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/edit_cache.dir
+D:/CPP/zejsciwoka_2/lab-2-lukasz-rybakowski/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/rebuild_cache.dir
